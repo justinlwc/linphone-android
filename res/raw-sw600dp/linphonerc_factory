@@ -30,3 +30,6 @@ dtmf_player_amp=0.1
 [misc]
 max_calls=10
 log_collection_upload_server_url=https://www.linphone.org:444/lft.php
+
+[video]
+displaytype=MSAndroidOpenGLDisplay
